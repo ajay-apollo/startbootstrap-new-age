@@ -12,6 +12,7 @@ body {
 
 body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
+  background-color: #026F94;
 }
 
 a {
@@ -41,7 +42,7 @@ h4,
 h5,
 h6 {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
-  font-weight: 200;
+  font-weight: 500;
   letter-spacing: 1px;
 }
 
